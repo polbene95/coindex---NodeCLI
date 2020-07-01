@@ -1,0 +1,1 @@
+# Use npm link | sudo npm link for using the application from your machine.
